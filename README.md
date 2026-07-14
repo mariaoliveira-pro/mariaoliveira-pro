@@ -158,23 +158,23 @@ open_to:
 
 <div align="center">
 
-#<img src="https://github-readme-stats.vercel.app/api?username=mariaoliveira-pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariaoliveira-pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaoliveira-pro&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-#<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaoliveira-pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaoliveira-pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
 
 </div>
 
-#<details>
-#<summary><b>🏆 GitHub Trophies</b></summary>
-#<br/>
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
 
-#<div align="center">
+<div align="center">
 
-#<img src="https://github-profile-trophy.vercel.app/?username=mariaoliveira-pro&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mariaoliveira-pro&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
-#</div>
-#</details>
+</div>
+</details>
 
 div align="center">
 
