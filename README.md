@@ -190,7 +190,6 @@ open_to:
 </div>
 <!--END_SECTION:waka-->
 
-> Note: the snake animation above requires a one-time GitHub Actions workflow set up on the `mariaoliveira-pro/mariaoliveira-pro` repo to generate `github-contribution-grid-snake-dark.svg`. It will render blank until that workflow runs at least once.
 
 ---
 
