@@ -30,18 +30,18 @@
 
 ## 🎯 About Me
 
-I'm a Computer Engineering student at **ESTG, Polytechnic of Leiria**, currently building full-stack applications across the web and Android stack — from RESTful Java backends to reactive Vue.js frontends and Kotlin-based mobile apps.
+I'm a Computer Engineering student at **ESTG, Polytechnic of Leiria**, currently building full-stack applications across the web and Android stack, from RESTful Java backends to reactive Vue.js frontends and Kotlin-based mobile apps.
 
 My academic project work spans:
 - **Full-stack web platforms** (Vue.js + Jakarta EE REST APIs), including integrating document-processing features like automated PDF summarization
 - **Android development** with Kotlin, including QA workflows using Katalon Studio
 - **Front-end focused web builds** using core HTML/CSS/JavaScript
 
-I care about writing code that works in a team context — every project below was built and shipped with a 4-person team, using Jira and Bitbucket for real project workflow, not solo assignments.
+I care about writing code that works in a team context, every project below was built and shipped with a 4-person team, using Jira and Bitbucket for real project workflow, not solo assignments.
 
 Outside of engineering, I'm a competitive trampoline gymnast (3× District Champion) and an assistant coach for young gymnasts, which is where most of my communication and patience skills actually come from.
 
-**Open to:** Internships and junior/graduate full-stack or backend roles · Collaborative student/open-source projects
+**Open to:** Internships and junior/graduate full-stack · Collaborative student/open-source projects
 
 ---
 
