@@ -172,13 +172,6 @@ open_to:
 
 </div>
 
-<!--START_SECTION:waka-->
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/mariaoliveira-pro/mariaoliveira-pro/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-<!--END_SECTION:waka-->
 
 
 ---
