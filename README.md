@@ -144,7 +144,7 @@ learning:
   - Blockchain Fundamentals with Python (Codecademy)
   - Deepening backend architecture with Jakarta EE
 building:
-  - Personal full-stack projects extending the DAE publication platform
+  - Personal full-stack projects
 exploring:
   - Cloud fundamentals and CI/CD workflows
 open_to:
@@ -153,26 +153,6 @@ open_to:
 ```
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaoliveira-pro&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaoliveira-pro&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
-
-</div>
-
-
 
 ---
 
