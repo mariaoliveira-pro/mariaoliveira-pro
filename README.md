@@ -4,15 +4,6 @@
 
 ### Computer Engineering Student · Software Engineering · Full-Stack & AI
 
-<a href="https://www.linkedin.com/in/maria-oliveira-09ba713b1/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mariafcvoliveira@gmail.com">
-<img src="https://img.shields.io/badge/Email-C084FC?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mariaoliveira-pro">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 📍 Leiria, Portugal
 
@@ -116,13 +107,6 @@ Focused on building a responsive interface with reactive Vue components and **We
 
 ---
 
-## ♡ A little more about me
-
-🥇 3× District Champion in trampoline gymnastics  
-🤸 15 years of competitive gymnastics  
-👩🏻‍🏫 Assistant gymnastics coach  
-🎸 Classical guitar & music theory  
-🤍 Volunteer in community initiatives
 
 ---
 
