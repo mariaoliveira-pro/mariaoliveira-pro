@@ -1,177 +1,285 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maria%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=210&section=header&text=Maria%20Oliveira&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20%26%20Full-Stack&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Computer+Engineering+%40+Polytechnic+of+Leiria;Full-Stack+Developer+%7C+Java+%2F+Kotlin+%2F+Vue.js;Building+real+projects%2C+not+just+resumes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=Computer+Engineering+%40+Universidade+de+Leiria;Building+full-stack+%26+AI-powered+applications;Curious+mind%2C+clean+code%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/Computer_Engineering-ESTG_Polytechnic_of_Leiria-6D28D9?style=for-the-badge)
-![GPA](https://img.shields.io/badge/High_School_GPA-17.7%2F20-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Leiria,_Portugal-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/maria-oliveira-09ba713b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mariafcvoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/mariaoliveira-pro"><img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=flat-square&logo=github&logoColor=white"/></a>
+![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-Universidade_de_Leiria-7C3AED?style=for-the-badge)
+![Master's](https://img.shields.io/badge/Master's_Student-2026%20%E2%80%93%20Present-A855F7?style=for-the-badge)
+![Location](https://img.shields.io/badge/Leiria-Portugal-6D28D9?style=for-the-badge)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mariaoliveira-pro&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/mariaoliveira-pro?color=7c3aed&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/mariaoliveira-pro?color=6d28d9&style=flat-square&label=Stars)
+<a href="https://www.linkedin.com/in/maria-oliveira-09ba713b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mariafcvoliveira@gmail.com">
+  <img src="https://img.shields.io/badge/Email-C084FC?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/mariaoliveira-pro">
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariaoliveira-pro&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/mariaoliveira-pro?color=A855F7&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/mariaoliveira-pro?color=7C3AED&style=flat-square&label=Stars)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## ♡ About Me
 
-I'm a Computer Engineering student at **ESTG, Polytechnic of Leiria**, currently building full-stack applications across the web and Android stack, from RESTful Java backends to reactive Vue.js frontends and Kotlin-based mobile apps.
+I'm a **Computer Engineering graduate and Master's student in Computer Engineering** at the University of Leiria, with a background in Information Systems and a growing focus on **software engineering, AI, and full-stack development**.
 
-My academic project work spans:
-- **Full-stack web platforms** (Vue.js + Jakarta EE REST APIs), including integrating document-processing features like automated PDF summarization
-- **Android development** with Kotlin, including QA workflows using Katalon Studio
-- **Front-end focused web builds** using core HTML/CSS/JavaScript
+I enjoy turning ideas into real applications — from reactive web interfaces and REST APIs to mobile applications and more recent work involving **AI, observability, distributed systems, and blockchain**.
 
-I care about writing code that works in a team context, every project below was built and shipped with a 4-person team, using Jira and Bitbucket for real project workflow, not solo assignments.
+I'm especially interested in understanding how things work behind the interface, while still caring about creating products that are intuitive, clean, and pleasant to use.
 
-Outside of engineering, I'm a competitive trampoline gymnast (3× District Champion) and an assistant coach for young gymnasts, which is where most of my communication and patience skills actually come from.
+Outside tech, I've spent **15 years in competitive trampoline gymnastics**, including several district and national titles. I'm also an assistant gymnastics coach, which taught me a lot about discipline, resilience, teamwork, communication, and patience.
 
-**Open to:** Internships and junior/graduate full-stack · Collaborative student/open-source projects
+**Currently:** Master's student · Software Engineering · AI/ML · Full-Stack Development
+
+**Open to:** Internships · Graduate opportunities · Junior Software Engineering roles · Collaborative projects
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,python,kotlin,r" />
+<img src="https://skillicons.dev/icons?i=java,python,c,kotlin,r,rust" />
 
-**Frontend**
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" />
 
-**Backend & Databases**
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=java,mysql" /> &nbsp;
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-6D28D9?style=flat-square&logo=jakartaee&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,mysql" />
 
-**Tooling & Workflow**
+&nbsp;
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> &nbsp;
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-7C3AED?style=flat-square&logo=jakartaee&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-A855F7?style=flat-square)
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,grafana,prometheus" />
+
+&nbsp;
+
 ![Jira](https://img.shields.io/badge/Jira-7C3AED?style=flat-square&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-6D28D9?style=flat-square&logo=bitbucket&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon_Studio-8B5CF6?style=flat-square&logo=katalon&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-4C1D95?style=flat-square&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-A78BFA?style=flat-square&logo=slack&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-6366F1?style=flat-square&logo=bitbucket&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon_Studio-8B5CF6?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-A855F7?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
-## 📂 Featured Academic Projects
+## ✧ What I Work With
+
+| Area | Technologies |
+|:---|:---|
+| **Software Engineering** | Java · Jakarta EE · REST APIs · Distributed Applications |
+| **Full-Stack Development** | Vue.js · JavaScript · HTML · CSS · Tailwind CSS |
+| **Mobile Development** | Kotlin · Android |
+| **AI & Intelligent Systems** | AI integration · PDF summarization · Machine Learning |
+| **Systems & Infrastructure** | Rust · Docker · OpenTelemetry · Prometheus · Grafana · Loki · Tempo |
+| **Data** | SQL · MySQL |
+| **Other Interests** | Blockchain · DeFi · Web3 |
+
+---
+
+## ♡ Featured Projects
 
 <details>
-<summary><b>🚀 DAE — Full-Stack Publication Platform</b></summary>
+<summary><b>🛰️ CubeSat Simulator</b> · Rust · Observability</summary>
+
 <br/>
 
-A full-stack publication system built with a 4-person team as part of coursework at ESTG.
+A satellite simulator developed in collaboration with the **Libre Space Foundation**, focused on autonomous energy management in **Low Earth Orbit (LEO)**.
 
 | | |
 |---|---|
-| **Stack** | Vue.js (frontend) · Java / Jakarta EE (REST API) · Apache PDFBox |
-| **Team** | 4-person student team |
-| **Key Feature** | Automated PDF summarization pipeline integrated into the publication workflow |
-| **Architecture** | Reactive Vue.js client consuming a secure Jakarta EE RESTful backend |
+| **Stack** | Rust · Docker Compose · OpenTelemetry · Prometheus · Grafana · Loki · Tempo |
+| **Focus** | Autonomous energy management |
+| **Architecture** | Finite State Machine (FSM) |
+| **Observability** | Metrics · Logs · Traces |
+| **Goal** | Real-time monitoring and system validation |
 
-Built the backend API layer and contributed to the PDF-summarization integration, connecting document processing to a reactive front-end interface.
+Designed the simulator around a **Finite State Machine**, allowing the satellite to autonomously manage its energy states.
+
+Built an observability environment with **OpenTelemetry, Prometheus, Loki, Grafana and Tempo**, making it possible to monitor the system through metrics, logs and traces.
 
 </details>
 
 <details>
-<summary><b>🎮 TAES — Android Card Game with Virtual Economy</b></summary>
+<summary><b>✨ A-Plataforma</b> · Full-Stack · AI</summary>
+
 <br/>
 
-A fully functional Android card game with an in-app virtual economy, developed and tested collaboratively.
+A reactive web platform for publication management, developed as part of the Development of Enterprise Applications course.
 
 | | |
 |---|---|
-| **Stack** | Kotlin · Katalon Studio (testing) |
-| **Team** | 4-person student team |
-| **Workflow** | Managed via Jira (task tracking) and Bitbucket (version control) |
-| **Focus** | Game logic, virtual economy systems, structured QA testing |
+| **Frontend** | Vue.js |
+| **Backend** | Java · Jakarta EE · REST API |
+| **AI** | Automatic PDF summarization |
+| **Document Processing** | Apache PDFBox |
+| **Team** | 4-person team |
 
-Collaborated on both development and test-automation, using Katalon Studio to validate app behavior across the game's economy features.
+Developed a full-stack application combining a reactive Vue.js interface with a secure RESTful backend.
+
+One of the main features was the integration of **Artificial Intelligence for automatic PDF summarization**, connecting document processing with the publication workflow.
 
 </details>
 
 <details>
-<summary><b>🌐 DAD — Web Development Project</b></summary>
+<summary><b>🎮 Bisca Android</b> · Kotlin · Mobile Development</summary>
+
 <br/>
 
-A web application built with a strong front-end focus, developed with the same 4-person team.
+A fully functional Android card game developed with a 4-person team, featuring a virtual economy and avatar customization.
 
 | | |
 |---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Team** | 4-person student team |
-| **Focus** | Front-end structure, styling, and interactivity |
+| **Stack** | Kotlin · Katalon Studio |
+| **Features** | Card game · Virtual economy · Avatar customization |
+| **Testing** | Katalon Studio |
+| **Workflow** | Jira · Bitbucket |
+| **Team** | 4-person team |
 
-Concentrated primarily on building the client-side experience from the ground up.
+Worked on the development and testing of the application while using **Jira** for project management and **Bitbucket** for collaborative version control.
+
+</details>
+
+<details>
+<summary><b>🌐 Bisca Web</b> · Vue 3 · WebSockets</summary>
+
+<br/>
+
+A multiplayer web version of the Bisca card game, focused on creating an interactive and responsive experience.
+
+| | |
+|---|---|
+| **Stack** | Vue 3 · Pinia · Tailwind CSS · WebSockets |
+| **Architecture** | Reactive components |
+| **Focus** | Multiplayer interaction |
+| **UI** | Responsive and interactive |
+
+Built the interactive game interface by translating game logic into reactive Vue components and using **WebSockets** to support multiplayer interaction.
 
 </details>
 
 ---
 
-## 🏅 Activities & Community Involvement
+## ♢ Education
 
-| Role | Timeframe | Details |
-|---|---|---|
-| Competitive Trampoline Gymnast | 2012 – Present | 3× consecutive District Champion, multiple podium finishes |
-| Gymnastics Assistant Coach | 2025 – Present | Coaching children aged 3–5; developing communication, patience, and leadership skills |
-| Hospital Outreach Volunteer | Dec 2025 | Partnered with AEFML (Lisbon Faculty of Medicine Students' Association) on the "Natal Diferente" initiative, providing companionship to hospital patients over the holidays |
-| Natural Disaster Relief Volunteer, Leiria | — | Assisted local community recovery efforts following Storm Kristin |
-| Classical Guitar & Music Theory | 2015 – 2021 | 6 years of formal training, including masterclasses with industry professionals |
+**Master's Degree in Computer Engineering**  
+University of Leiria and Oeste · 2026 – Present
+
+**Bachelor's Degree in Computer Engineering**  
+Polytechnic of Leiria · 2023 – 2026  
+Information Systems · Final grade: **14.16/20**
+
+**Secondary Education**  
+Francisco Rodrigues Lobo Secondary School · 2020 – 2023  
+Final grade: **17.7/20**
 
 ---
 
-## 📚 Currently Learning
+## 🏆 Achievements & Activities
+
+| Recognition | Details |
+|:---:|:---|
+| 🥇 **District Champion** | 3 consecutive district titles in trampoline gymnastics |
+| 🏅 **Competitive Athlete** | 15 years of federated trampoline gymnastics with national and international participation |
+| 👩🏻‍🏫 **Assistant Coach** | Coaching children aged 3–5 and developing communication, patience and leadership |
+| 🎓 **SheFi Scholar** | Season 16 · Focus on Crypto, DeFi and AI |
+| ⛓️ **Blockchain** | Completed practical blockchain fundamentals training with Python |
+
+---
+
+## 📜 Certifications
+
+### Codecademy
+
+![Blockchain](https://img.shields.io/badge/Learn_the_Basics_of_Blockchain_with_Python-7C3AED?style=for-the-badge)
+
+![SheFi](https://img.shields.io/badge/SheFi_Scholar-Season_16-A855F7?style=for-the-badge)
+
+### Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-8B5CF6?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-A855F7?style=flat-square)
+
+---
+
+## 💻 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariaoliveira-pro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=8B5CF6" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaoliveira-pro&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mariaoliveira-pro&theme=dark&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
+
+</div>
+
+---
+
+## ✿ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaoliveira-pro&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mariaoliveira-pro/mariaoliveira-pro/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🌙 Currently
 
 ```yaml
 learning:
-  - Blockchain Fundamentals with Python (Codecademy)
-  - Deepening backend architecture with Jakarta EE
+  - Artificial Intelligence & Machine Learning
+  - Software Engineering
+  - Backend Architecture
+  - Blockchain & Web3
+
 building:
-  - Personal full-stack projects
+  - Academic and personal software projects
+  - Full-stack applications
+  - Systems with clean architecture and observability
+
 exploring:
-  - Cloud fundamentals and CI/CD workflows
+  - AI-powered applications
+  - Distributed systems
+  - Cloud & DevOps
+  - Open source
+
 open_to:
-  - Internships in full-stack or backend engineering
-  - Collaborative open-source contributions
-```
-
----
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="mailto:mariafcvoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/maria-oliveira-09ba713b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mariaoliveira-pro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Still a student, but every project here was built, tested, and shipped like it mattered."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+  - Software Engineering internships
+  - Graduate / Junior opportunities
+  - Full-stack & backend roles
+  - Collaborative projects
